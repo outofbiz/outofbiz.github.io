@@ -1,4 +1,4 @@
-var background = document.getElementById('background')r
+var background = document.getElementById('background');
 window.addEventListener('click', function(e) {
   var image = document.createElement('img');
   var style = 'margin-top:' + e.screenY + 'px;margin-left:' + e.screenX + 'px';
