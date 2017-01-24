@@ -13,3 +13,7 @@ body {
 img {
   position: absolute;
 }
+
+iframe {
+  visibility: hidden;
+}
